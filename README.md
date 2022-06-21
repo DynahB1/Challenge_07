@@ -1,6 +1,6 @@
 # Challenge_07
 
-## *This is a helpfull program that will feature the use of SQL database to ontain cummulative return nformation of ETF's. Feel free to explore my codebase!* 
+## *This is a helpfull program that will feature the use of SQL database to obtain cumulative return information of ETF's. Feel free to explore my codebase!* 
 
 ---
 
